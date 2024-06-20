@@ -1,0 +1,18 @@
+#ide
+node_modules
+.idea
+.vscode
+
+# others
+test.js
+coverage
+npm-debug.log
+.coveralls.yml
+*.log
+*.0x
+.nyc_output
+docs
+cjs
+esm
+doctheme
+.DS_Store
